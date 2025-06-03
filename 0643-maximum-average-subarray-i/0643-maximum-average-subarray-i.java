@@ -4,11 +4,13 @@ class Solution {
         for(int i = 0; i < k; ++i){
             sum += nums[i];
         }
-        double maxim = sum;
+        double avg = sum / k;
+        int l = 0;
         for(int i = k; i < nums.length; ++i){
-            sum = sum - nums[i - k] + nums[i];
-            maxim = Math.max(maxim, sum);
+            sum += nums[i];
+            sum -= nums[l++];
+            avg = Math.max(avg, sum/k);
         }
-        return maxim / k;
+        return avg;
     }
 }
