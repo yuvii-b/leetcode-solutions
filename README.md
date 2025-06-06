@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvii-b/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yuvii-b/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yuvii-b/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
