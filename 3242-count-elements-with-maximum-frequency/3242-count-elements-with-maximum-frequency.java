@@ -1,16 +1,15 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
-        Map<Integer, Integer> freq = new HashMap<>();
+        byte[] freq = new byte[101];
+        byte max = 0, count = 0;
         for(int n : nums){
-            freq.put(n, freq.getOrDefault(n, 0) + 1);
-        }
-        int count = 0;
-        int max = Integer.MIN_VALUE;
-        for(int f : freq.values()){
-            max = Math.max(max, f);
-        }
-        for(int f : freq.values()){
-            if(f == max) count += max;
+            byte f = ++freq[n];
+            if(f > max){
+                max = f;
+                count = f;
+            } else if (f == max){
+                count += f;
+            }
         }
         return count;
     }
