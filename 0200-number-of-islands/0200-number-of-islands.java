@@ -1,28 +1,20 @@
 class Solution {
-    private void bfs(char[][] grid, int i, int j){
-        int[] dx = {-1, 0, 1, 0};
-        int[] dy = {0, 1, 0, -1};
+    private void dfs(char[][] grid, int i, int j) {
         int m = grid.length;
         int n = grid[0].length;
 
-        grid[i][j] = '0';
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{i, j});
-
-        while(!queue.isEmpty()){
-            int[] cell = queue.poll();
-            int x = cell[0];
-            int y = cell[1];
-            for(int k = 0; k < 4; ++k){
-                int nx = x + dx[k];
-                int ny = y + dy[k];
-                if(nx >= 0 && nx < m && ny >= 0 && ny < n && grid[nx][ny] == '1'){
-                    grid[nx][ny] = '0';
-                    queue.offer(new int[]{nx, ny});
-                }
-            }
+        if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == '0') {
+            return;
         }
+
+        grid[i][j] = '0';
+        
+        dfs(grid, i - 1, j); 
+        dfs(grid, i, j + 1); 
+        dfs(grid, i + 1, j); 
+        dfs(grid, i, j - 1); 
     }
+
     public int numIslands(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
@@ -31,7 +23,7 @@ class Solution {
             for(int j = 0; j < n; ++j){
                 if(grid[i][j] == '1'){
                     ++count;
-                    bfs(grid, i, j);
+                    dfs(grid, i, j);
                 }
             }
         }
