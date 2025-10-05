@@ -1,13 +1,13 @@
 class Solution {
     public int reverse(int x) {
-        int res = 0;
+        int reverseNum = 0;
         while(x != 0){
-            int last = x % 10;
-            int temp = res * 10 + last;
-            if((temp - last) / 10 != res) return 0;
-            res = temp;
+            int ld = x % 10;
+            int temp = reverseNum * 10 + ld;
+            if((temp - ld) / 10 != reverseNum) return 0;
+            reverseNum = temp;
             x /= 10;
         }
-        return res;
+        return reverseNum;
     }
 }
