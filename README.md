@@ -180,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/yuvii-b/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yuvii-b/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/yuvii-b/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yuvii-b/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Union Find
@@ -206,12 +208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yuvii-b/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yuvii-b/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
