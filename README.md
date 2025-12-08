@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yuvii-b/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/yuvii-b/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/yuvii-b/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvii-b/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Interactive
 |  |
 | ------- |
