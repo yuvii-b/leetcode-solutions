@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yuvii-b/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yuvii-b/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yuvii-b/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yuvii-b/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yuvii-b/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
