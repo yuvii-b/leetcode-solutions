@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yuvii-b/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yuvii-b/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yuvii-b/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvii-b/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yuvii-b/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuvii-b/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvii-b/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/yuvii-b/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yuvii-b/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
