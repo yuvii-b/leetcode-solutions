@@ -1,5 +1,6 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+        // better solution - uses aux space
         Set<List<Integer>> tripletSet = new HashSet<>();
         int n = nums.length;
         for(int i = 0; i < n; ++i){
