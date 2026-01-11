@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvii-b/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/yuvii-b/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yuvii-b/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yuvii-b/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yuvii-b/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuvii-b/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yuvii-b/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/yuvii-b/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yuvii-b/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Depth-First Search
