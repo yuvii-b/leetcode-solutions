@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yuvii-b/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvii-b/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
+| [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1603-running-sum-of-1d-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yuvii-b/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/yuvii-b/leetcode-solutions/tree/master/1070-convert-to-base-2) |
+| [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yuvii-b/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
