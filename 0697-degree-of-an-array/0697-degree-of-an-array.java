@@ -1,6 +1,6 @@
 class Solution {
     public int findShortestSubArray(int[] nums) {
-        if(nums.length == 0 || nums == null) return 0;
+        if(nums == null || nums.length == 0) return 0;
         Map<Integer, Integer> count = new HashMap<>(), first = new HashMap<>();
         int res = 0, degree = 0, n = nums.length;
         for(int i = 0; i < n; ++i){
