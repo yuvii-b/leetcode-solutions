@@ -6,12 +6,12 @@ class Solution {
         for(int i = 0; i < n; ++i){
             first.putIfAbsent(nums[i], i);
             count.put(nums[i], count.getOrDefault(nums[i], 0) + 1);
-            int freq = count.get(nums[i]);
+            int freq = count.get(nums[i]), len = i - first.get(nums[i]) + 1;
             if(freq > degree){
                 degree = freq;
-                res = i - first.get(nums[i]) + 1;
+                res = len;
             }else if(freq == degree){
-                res = Math.min(res, i - first.get(nums[i]) + 1);
+                res = Math.min(res, len);
             }
         }
         return res;
