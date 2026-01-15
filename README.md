@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yuvii-b/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvii-b/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/yuvii-b/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvii-b/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvii-b/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvii-b/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Depth-First Search
 |  |
