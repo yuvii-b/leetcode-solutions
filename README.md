@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yuvii-b/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvii-b/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yuvii-b/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yuvii-b/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvii-b/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yuvii-b/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yuvii-b/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvii-b/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
