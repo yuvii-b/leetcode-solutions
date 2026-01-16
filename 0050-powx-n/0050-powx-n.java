@@ -7,13 +7,11 @@ class Solution {
             ans *= x;
         }
         while(n > 0){
-            if(n % 2 == 1){
-                n -= 1;
+            if((n & 1) == 1){
                 ans *= x;
-            }else{
-                n /= 2;
-                x *= x;
             }
+            x *= x;
+            n >>= 1;
         }
         return ans;
     }
