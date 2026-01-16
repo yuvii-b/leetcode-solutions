@@ -2,7 +2,7 @@ class Solution {
     private int sumLogic(int[] nums, int divisor){
         int sum = 0, n = nums.length;
         for(int i = 0; i < n; ++i){
-            sum += Math.ceil((double)nums[i] / divisor);
+            sum += (nums[i] + divisor - 1) / divisor;
         }
         return sum;
     }
