@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yuvii-b/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvii-b/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yuvii-b/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuvii-b/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvii-b/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvii-b/leetcode-solutions/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yuvii-b/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuvii-b/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yuvii-b/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
