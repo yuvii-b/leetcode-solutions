@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuvii-b/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvii-b/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2643-row-with-maximum-ones](https://github.com/yuvii-b/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/yuvii-b/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yuvii-b/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/yuvii-b/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yuvii-b/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2643-row-with-maximum-ones](https://github.com/yuvii-b/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
