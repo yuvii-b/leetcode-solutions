@@ -19,6 +19,10 @@ class Solution {
         }
         temp.next = head;
         k %= len;
+        if(k == 0){
+            temp.next = null;
+            return head;
+        }
         int end = len - k;
         while(end --> 0){
             temp = temp.next;
