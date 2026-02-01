@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yuvii-b/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yuvii-b/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yuvii-b/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yuvii-b/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yuvii-b/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yuvii-b/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yuvii-b/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yuvii-b/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvii-b/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/yuvii-b/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yuvii-b/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
