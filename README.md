@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/yuvii-b/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/yuvii-b/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3637-trionic-array-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
