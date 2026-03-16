@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yuvii-b/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yuvii-b/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yuvii-b/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/yuvii-b/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yuvii-b/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/yuvii-b/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/yuvii-b/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/yuvii-b/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yuvii-b/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
