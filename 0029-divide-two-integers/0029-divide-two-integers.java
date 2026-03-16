@@ -12,8 +12,6 @@ class Solution {
             ans += (1 << count);
             n -= (d << count);
         } 
-        if(ans == (1 << 31) && isPositive) return Integer.MAX_VALUE;
-        if(ans == (1 << 31) && !isPositive) return Integer.MIN_VALUE;
         return isPositive ? ans : -ans;
     }
 }
