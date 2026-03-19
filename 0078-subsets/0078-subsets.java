@@ -1,16 +1,18 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        int n = nums.length, count = 1 << n;
-        List<List<Integer>> subsets = new ArrayList<>();
-        for(int i = 0; i < count; ++i){
-            List<Integer> subset = new ArrayList<>();
-            for(int j = 0; j < n; ++j){
-                if(((i >> j) & 1) == 1){
-                    subset.add(nums[j]);
-                }
-            }
-            subsets.add(subset);
+        List<List<Integer>> result = new ArrayList<>();
+        generate(0, new ArrayList<>(), result, nums);
+        return result;
+    }
+
+    private void generate(int index, List<Integer> curr, List<List<Integer>> result, int[] nums){
+        if(index == nums.length){
+            result.add(new ArrayList<>(curr));
+            return;
         }
-        return subsets;
+        curr.add(nums[index]);
+        generate(index + 1, curr, result, nums);
+        curr.remove(curr.size() - 1);
+        generate(index + 1, curr, result, nums);
     }
 }
