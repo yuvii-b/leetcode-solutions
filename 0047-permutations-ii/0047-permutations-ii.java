@@ -10,7 +10,7 @@ class Solution {
         if(index == nums.length){
             List<Integer> temp = new ArrayList<>();
             for(int n : nums) temp.add(n);
-            result.add(new ArrayList<>(temp));
+            result.add(temp);
             return;
         }
         Set<Integer> set = new HashSet<>();
