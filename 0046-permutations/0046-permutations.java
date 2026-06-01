@@ -1,27 +1,24 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        generate(0, nums, result);
+        boolean[] freq = new boolean[nums.length];
+        generate(nums, new ArrayList<>(), freq, result);
         return result;
     }
 
-    private void generate(int index, int[] nums, List<List<Integer>> result){
-        if(index == nums.length){
-            List<Integer> temp = new ArrayList<>();
-            for(int n : nums) temp.add(n);
-            result.add(new ArrayList<>(temp));
+    private void generate(int[] nums, List<Integer> curr, boolean[] freq, List<List<Integer>> result){
+        if(curr.size() == nums.length){
+            result.add(new ArrayList<>(curr));
             return;
         }
-        for(int i = index; i < nums.length; ++i){
-            swap(nums, i, index);
-            generate(index + 1, nums, result);
-            swap(nums, i, index);
+        for(int i = 0; i < nums.length; ++i){
+            if(!freq[i]){
+                curr.add(nums[i]);
+                freq[i] = true;
+                generate(nums, curr, freq, result);
+                curr.remove(curr.size() - 1);
+                freq[i] = false;
+            }
         }
-    }
-
-    private void swap(int[] nums, int i, int j){
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }
