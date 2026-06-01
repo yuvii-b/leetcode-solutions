@@ -6,13 +6,11 @@ class Solution {
     }
 
     private void generate(int index, List<Integer> curr, List<List<Integer>> result, int[] nums){
-        if(index == nums.length){
-            result.add(new ArrayList<>(curr));
-            return;
+        result.add(new ArrayList<>(curr));
+        for(int i = index; i < nums.length; ++i){
+            curr.add(nums[i]);
+            generate(i + 1, curr, result, nums);
+            curr.remove(curr.size() - 1);
         }
-        curr.add(nums[index]);
-        generate(index + 1, curr, result, nums);
-        curr.remove(curr.size() - 1);
-        generate(index + 1, curr, result, nums);
     }
 }
