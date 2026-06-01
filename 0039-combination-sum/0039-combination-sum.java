@@ -6,13 +6,11 @@ class Solution {
     }
 
     private void solve(int i, List<Integer> curr, int target, int[] candidates, List<List<Integer>> result){
-        if(target < 0) return;
-        if(i == candidates.length){
-            if(target == 0){
-                result.add(new ArrayList<>(curr));
-            }
+        if(target == 0){
+            result.add(new ArrayList<>(curr));
             return;
         }
+        if(target < 0 || i == candidates.length) return;
         curr.add(candidates[i]);
         solve(i, curr, target - candidates[i], candidates, result);
         curr.remove(curr.size() - 1);
