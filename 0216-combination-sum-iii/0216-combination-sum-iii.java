@@ -12,6 +12,7 @@ class Solution {
             }
             return;
         }
+        if(curr.size() + (9 - i + 1) < k) return; // early pruning
         if(i > 9 || curr.size() > k || sum < 0) return;
         curr.add(i);
         solve(i + 1, curr, k, sum - i, result);
