@@ -1,50 +1,52 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> result = new ArrayList<>();
-        List<String> board = new ArrayList<>();
+        char[][] board = new char[n][n];
         for(int i = 0; i < n; ++i){
-            board.add(".".repeat(n));
+            Arrays.fill(board[i], '.');
         }
-        solve(0, result, board);
+        solve(0, board, result, n);
         return result;
     }
 
-    private void solve(int row, List<List<String>> result, List<String> board){
-        if(row == board.size()){
-            result.add(new ArrayList<>(board));
+    private void solve(int row, char[][] board, List<List<String>> result, int n){
+        if(row == n){
+            result.add(construct(board));
             return;
         }
-        for(int col = 0; col < board.get(0).length(); ++col){
-            if(isSafe(board, row, col)){
-                char[] rowArr = board.get(row).toCharArray();
-                rowArr[col] = 'Q';
-                board.set(row, new String(rowArr));
-                solve(row + 1, result, board);
-                rowArr[col] = '.';
-                board.set(row, new String(rowArr));
+
+        for(int col = 0; col < n; ++col){
+            if(isSafe(row, col, board)){
+                board[row][col] = 'Q';
+                solve(row + 1, board, result, n);
+                board[row][col] = '.';
             }
         }
     }
 
-    private boolean isSafe(List<String> board, int row, int col){
+    private boolean isSafe(int row, int col, char[][] board){
+        for(int i = 0; i < row; ++i){
+            if(board[i][col] == 'Q') return false;
+        }
+
         int r = row, c = col;
         while(r >= 0 && c >= 0){
-            if(board.get(r).charAt(c) == 'Q') return false;
-            --r;
-            --c;
+            if(board[r--][c--] == 'Q') return false;
         }
+
         r = row; c = col;
-        while(r >= 0 && c < board.get(0).length()){
-            if(board.get(r).charAt(c) == 'Q') return false;
-            --r;
-            ++c;
-        }
-        r = row; c = col;
-        while(r >= 0){
-            if(board.get(r).charAt(c) == 'Q') return false;
-            --r;
+        while(r >= 0 && c < board.length){
+            if(board[r--][c++] == 'Q') return false;
         }
 
         return true;
+    }
+
+    private List<String> construct(char[][] board){
+        List<String> config = new ArrayList<>();
+        for(int i = 0; i < board.length; ++i){
+            config.add(new String(board[i]));
+        }
+        return config;
     }
 }
