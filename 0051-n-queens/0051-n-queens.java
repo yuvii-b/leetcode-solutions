@@ -5,41 +5,35 @@ class Solution {
         for(int i = 0; i < n; ++i){
             Arrays.fill(board[i], '.');
         }
-        solve(0, board, result, n);
+        boolean[] cols = new boolean[n];
+        boolean[] leftDiagonal = new boolean[2 * n - 1]; // '  /  '
+        boolean[] rightDiagonal = new boolean[2 * n - 1]; // '  \  '
+        solve(0, board, cols, leftDiagonal, rightDiagonal, result, n);
         return result;
     }
 
-    private void solve(int row, char[][] board, List<List<String>> result, int n){
+    private void solve(int row, char[][] board, boolean[] cols, boolean[] lDiag, 
+                boolean[] rDiag, List<List<String>> result, int n){
         if(row == n){
             result.add(construct(board));
             return;
         }
-
         for(int col = 0; col < n; ++col){
-            if(isSafe(row, col, board)){
-                board[row][col] = 'Q';
-                solve(row + 1, board, result, n);
-                board[row][col] = '.';
-            }
-        }
-    }
+            int leftDiagIdx = row + col, rightDiagIdx = row - col + (n - 1);
+            if(cols[col] || lDiag[leftDiagIdx] || rDiag[rightDiagIdx]) continue;
 
-    private boolean isSafe(int row, int col, char[][] board){
-        for(int i = 0; i < row; ++i){
-            if(board[i][col] == 'Q') return false;
-        }
+            board[row][col] = 'Q'; 
+            cols[col] = true;
+            lDiag[leftDiagIdx] = true;
+            rDiag[rightDiagIdx] = true;
 
-        int r = row, c = col;
-        while(r >= 0 && c >= 0){
-            if(board[r--][c--] == 'Q') return false;
-        }
+            solve(row + 1, board, cols, lDiag, rDiag, result, n);
 
-        r = row; c = col;
-        while(r >= 0 && c < board.length){
-            if(board[r--][c++] == 'Q') return false;
+            board[row][col] = '.'; 
+            cols[col] = false;
+            lDiag[leftDiagIdx] = false;
+            rDiag[rightDiagIdx] = false;
         }
-
-        return true;
     }
 
     private List<String> construct(char[][] board){
