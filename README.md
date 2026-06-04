@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/yuvii-b/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yuvii-b/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvii-b/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yuvii-b/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/yuvii-b/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
