@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvii-b/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvii-b/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/yuvii-b/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvii-b/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvii-b/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yuvii-b/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Prefix Sum
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/yuvii-b/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yuvii-b/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvii-b/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yuvii-b/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yuvii-b/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
