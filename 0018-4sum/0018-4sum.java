@@ -10,14 +10,14 @@ class Solution {
                 int k = j + 1, l = n - 1;
                 while(k < l){
                     long sum = (long) nums[i] + nums[j] + nums[k] + nums[l];
-                    if(sum == target){
+                    if(sum < target) ++k;
+                    else if(sum > target) --l;
+                    else{
                         ans.add(List.of(nums[i], nums[j], nums[k], nums[l]));
-                        ++k;
-                        --l;
+                        ++k; --l;
                         while(k < l && nums[k] == nums[k - 1]) ++k;
-                        while(k < l && nums[l] == nums[l + 1]) --l;
-                    }else if(sum < target) ++k;
-                    else --l;
+                        while(k < l && nums[j] == nums[l + 1]) --l;
+                    }
                 }
             }
         }
