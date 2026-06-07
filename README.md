@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/yuvii-b/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvii-b/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/yuvii-b/leetcode-solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/yuvii-b/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0697-degree-of-an-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvii-b/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/yuvii-b/leetcode-solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yuvii-b/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/yuvii-b/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yuvii-b/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuvii-b/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/yuvii-b/leetcode-solutions/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -589,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yuvii-b/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/yuvii-b/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
