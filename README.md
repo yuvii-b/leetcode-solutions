@@ -608,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/yuvii-b/leetcode-solutions/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/yuvii-b/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
