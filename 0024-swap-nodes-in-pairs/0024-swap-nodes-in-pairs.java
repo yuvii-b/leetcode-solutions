@@ -10,50 +10,15 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        return reverseKGroup(head, 2);
-    }
-
-    public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode temp = head, prevLast = null;
-        while(temp != null){
-            ListNode kthNode = getKthNode(temp, k);
-            if(kthNode == null){
-                if(prevLast != null) prevLast.next = temp;
-                break;
-            }
-            ListNode nextNode = kthNode.next;
-            kthNode.next = null;
-            ListNode newHead = reverseLinkedList(temp); // no need of newHead reference, can check with kthNode but this is expected for clarity
-            if(temp == head){
-                head = newHead;
-                // head = kthNode;
-            }else{
-                prevLast.next = newHead;
-                // prevLast.next = kthNode;
-            }
-            prevLast = temp;
-            temp = nextNode;
+        if(head == null || head.next == null) return head;
+        ListNode dummy = new ListNode(-1, head), prev = dummy;
+        while(prev.next != null && prev.next.next != null){
+            ListNode first = prev.next, second = prev.next.next;
+            first.next = second.next;
+            second.next = first;
+            prev.next = second;
+            prev = first; // move 2
         }
-        return head;
-    }
-
-    private ListNode getKthNode(ListNode temp, int k){
-        k -= 1;
-        while(temp != null && k > 0){
-            --k;
-            temp = temp.next;
-        }
-        return temp;
-    }
-
-    private ListNode reverseLinkedList(ListNode head){
-        ListNode prev = null, curr = head, next = null;
-        while(curr != null){
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-        return prev;
+        return dummy.next;
     }
 }
