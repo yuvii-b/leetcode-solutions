@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yuvii-b/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yuvii-b/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yuvii-b/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yuvii-b/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yuvii-b/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yuvii-b/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvii-b/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yuvii-b/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yuvii-b/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yuvii-b/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yuvii-b/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuvii-b/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yuvii-b/leetcode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yuvii-b/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yuvii-b/leetcode-solutions/tree/master/0561-array-partition) |
