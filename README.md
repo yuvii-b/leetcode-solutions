@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/yuvii-b/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/yuvii-b/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/yuvii-b/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/yuvii-b/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yuvii-b/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/yuvii-b/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yuvii-b/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yuvii-b/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0918-maximum-sum-circular-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Geometry
 |  |
 | ------- |
@@ -678,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
