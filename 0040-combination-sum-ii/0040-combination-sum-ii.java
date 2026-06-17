@@ -15,7 +15,7 @@ class Solution {
         curr.add(candidates[i]);
         solve(i + 1, curr, target - candidates[i], candidates, result);
         curr.remove(curr.size() - 1);
-        while(i + 1 < candidates.length && candidates[i] == candidates[i + 1]) i++;
+        while(i + 1 < candidates.length && candidates[i] == candidates[i + 1]) ++i;
         solve(i + 1, curr, target, candidates, result);
     }
 }
