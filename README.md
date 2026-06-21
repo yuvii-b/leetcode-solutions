@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yuvii-b/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/yuvii-b/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/yuvii-b/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yuvii-b/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuvii-b/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
