@@ -1,4 +1,5 @@
 class Solution {
+    // check the space optimized approach
     public int maxIceCream(int[] costs, int coins) {
         int[] sorted = countingSort(costs);
         int n = sorted.length, candies = 0, i = 0;
