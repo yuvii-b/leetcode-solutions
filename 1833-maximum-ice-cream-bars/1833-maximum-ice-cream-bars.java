@@ -1,32 +1,21 @@
 class Solution {
-    // check the space optimized approach
     public int maxIceCream(int[] costs, int coins) {
-        int[] sorted = countingSort(costs);
-        int n = sorted.length, candies = 0, i = 0;
-        while(i < n && coins > 0){
-            if(coins >= sorted[i]){
-                coins -= sorted[i++];
-                ++candies;
-            }else break;
+        int max = 0;
+        for (int cost : costs) {
+            max = Math.max(max, cost);
         }
-        return candies;
-    }
-
-    private int[] countingSort(int[] arr){
-        int n = arr.length, max = arr[0];
-        for(int i = 0; i < n; ++i){
-            max = Math.max(max, arr[i]);
+        int[] count = new int[max + 1];
+        for (int cost : costs) {
+            ++count[cost];
         }
-        int[] count = new int[max + 1], output = new int[n];
-        for(int i = 0; i < n; ++i){
-            ++count[arr[i]];
+        int iceCreamCount = 0;        
+        for (int price = 1; price <= max; price++) {
+            if (count[price] == 0) continue;
+            if (coins < price) break;
+            int quantityToBuy = Math.min(count[price], coins / price);
+            iceCreamCount += quantityToBuy;
+            coins -= quantityToBuy * price;
         }
-        for(int i = 1; i <= max; ++i){
-            count[i] += count[i - 1];
-        }
-        for(int i = n - 1; i >= 0; --i){
-            output[--count[arr[i]]] = arr[i];
-        }
-        return output;
+        return iceCreamCount;
     }
 }
