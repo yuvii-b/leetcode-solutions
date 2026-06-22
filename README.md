@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yuvii-b/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/yuvii-b/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yuvii-b/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yuvii-b/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yuvii-b/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yuvii-b/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yuvii-b/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yuvii-b/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Geometry
 |  |
