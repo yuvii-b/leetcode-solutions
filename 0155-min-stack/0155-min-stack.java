@@ -1,7 +1,8 @@
-// space: O(2n)
+// space: O(n)
 class MinStack {
 
-    private Stack<int[]> st;
+    private Stack<Long> st;
+    long minimum;
 
     public MinStack() {
         st = new Stack<>();
@@ -9,23 +10,34 @@ class MinStack {
     
     public void push(int value) {
         if(st.isEmpty()){
-            st.push(new int[]{value, value});
+            st.push((long)value);
+            minimum = value;
             return;
         }
-        int minimum = Math.min(value, getMin());
-        st.push(new int[]{value, minimum});
+        if(value > minimum) st.push((long)value);
+        else{
+            st.push(2L * value - minimum);
+            minimum = value;
+        }
     }
     
     public void pop() {
-        st.pop();
+        if(st.isEmpty()) return;
+        long x = st.pop();
+        if(x < minimum){
+            minimum = 2 * minimum - x;
+        }
     }
     
     public int top() {
-        return st.peek()[0];
+        if(st.isEmpty()) return -1;
+        long x = st.peek();
+        if(x < minimum) return (int)minimum;
+        return (int)x;
     }
     
     public int getMin() {
-        return st.peek()[1];
+        return (int)minimum;
     }
 }
 
