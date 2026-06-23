@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/yuvii-b/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yuvii-b/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yuvii-b/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2104-sum-of-subarray-ranges](https://github.com/yuvii-b/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yuvii-b/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuvii-b/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/yuvii-b/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/yuvii-b/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/yuvii-b/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/yuvii-b/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/yuvii-b/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
