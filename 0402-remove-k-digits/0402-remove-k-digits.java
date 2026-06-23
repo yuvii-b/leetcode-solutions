@@ -1,6 +1,8 @@
 class Solution {
+    // tip: dont use stack, just use stringbuilder
     public String removeKdigits(String num, int k) {
         int n = num.length();
+        if(k == n) return "0";
         Stack<Character> st = new Stack<>();
         for(int i = 0; i < n; ++i){
             char digit = num.charAt(i);
