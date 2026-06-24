@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yuvii-b/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuvii-b/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/yuvii-b/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/yuvii-b/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yuvii-b/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yuvii-b/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/yuvii-b/leetcode-solutions/tree/master/1070-convert-to-base-2) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/yuvii-b/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/yuvii-b/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yuvii-b/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
