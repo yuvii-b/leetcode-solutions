@@ -2,7 +2,7 @@ class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length, area = 0;
         int[] nse = new int[n], pse = new int[n];
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
         for (int i = n - 1; i >= 0; --i) {
             while (!st.isEmpty() && heights[st.peek()] >= heights[i])
                 st.pop();
