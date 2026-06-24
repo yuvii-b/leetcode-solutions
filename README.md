@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yuvii-b/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/yuvii-b/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3285-find-indices-of-stable-mountains](https://github.com/yuvii-b/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3637-trionic-array-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
