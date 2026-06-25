@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yuvii-b/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/yuvii-b/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yuvii-b/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yuvii-b/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/yuvii-b/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/yuvii-b/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yuvii-b/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/yuvii-b/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yuvii-b/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yuvii-b/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
