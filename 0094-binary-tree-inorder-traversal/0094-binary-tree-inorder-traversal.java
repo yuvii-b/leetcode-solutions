@@ -16,18 +16,18 @@
 class Solution {
     // iterative - using stack
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        Stack<TreeNode> stack = new Stack<>();
+        Deque<TreeNode> st = new ArrayDeque<>();
+        List<Integer> res = new ArrayList<>();
         TreeNode curr = root;
-        while(curr != null || !stack.empty()){
+        while(curr != null || !st.isEmpty()){
             while(curr != null){
-                stack.add(curr);
+                st.push(curr);
                 curr = curr.left;
             }
-            curr = stack.pop();
-            result.add(curr.val);
+            curr = st.pop();
+            res.add(curr.val);
             curr = curr.right;
         }
-        return result;
+        return res;
     }
 }
