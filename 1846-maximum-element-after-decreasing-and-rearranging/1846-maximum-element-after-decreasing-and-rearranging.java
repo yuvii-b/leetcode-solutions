@@ -1,10 +1,13 @@
 class Solution {
-    // sorting
+    // count array - interesting
     public int maximumElementAfterDecrementingAndRearranging(int[] arr) {
-        Arrays.sort(arr);
-        int ans = 1;
-        for(int i = 1; i < arr.length; ++i){
-            if(arr[i] >= ans + 1) ++ans;
+        int ans = 0, n = arr.length;
+        int[] count = new int[n + 1];
+        for(int num : arr){
+            ++count[Math.min(num, n)];
+        }
+        for(int i = 1; i <= n; ++i){
+            ans = Math.min(i, ans + count[i]);
         }
         return ans;
     }
