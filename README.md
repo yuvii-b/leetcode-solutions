@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/yuvii-b/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/yuvii-b/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3894-traffic-signal-color](https://github.com/yuvii-b/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Hash Table
