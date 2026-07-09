@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/yuvii-b/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/yuvii-b/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0977-squares-of-a-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/yuvii-b/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuvii-b/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/yuvii-b/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0948-bag-of-tokens](https://github.com/yuvii-b/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/yuvii-b/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0977-squares-of-a-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/yuvii-b/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/yuvii-b/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yuvii-b/leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/yuvii-b/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/yuvii-b/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
