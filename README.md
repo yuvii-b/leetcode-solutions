@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yuvii-b/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/yuvii-b/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yuvii-b/leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yuvii-b/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuvii-b/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/yuvii-b/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvii-b/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yuvii-b/leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvii-b/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1995-count-special-quadruplets](https://github.com/yuvii-b/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yuvii-b/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/yuvii-b/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/yuvii-b/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/yuvii-b/leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yuvii-b/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/yuvii-b/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvii-b/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
