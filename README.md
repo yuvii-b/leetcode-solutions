@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yuvii-b/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/yuvii-b/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/yuvii-b/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/yuvii-b/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/yuvii-b/leetcode-solutions/tree/master/0495-teemo-attacking) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yuvii-b/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/yuvii-b/leetcode-solutions/tree/master/1070-convert-to-base-2) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yuvii-b/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yuvii-b/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/yuvii-b/leetcode-solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/yuvii-b/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/yuvii-b/leetcode-solutions/tree/master/0846-hand-of-straights) |
