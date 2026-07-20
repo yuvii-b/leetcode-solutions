@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/yuvii-b/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvii-b/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0925-long-pressed-name](https://github.com/yuvii-b/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvii-b/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/yuvii-b/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/yuvii-b/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0925-long-pressed-name](https://github.com/yuvii-b/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/yuvii-b/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
