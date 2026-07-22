@@ -1,7 +1,7 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         Map<Integer, Integer> nge = new HashMap<>();
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
         int n = nums2.length;
         for(int i = n - 1; i >= 0; --i){
             while(!st.isEmpty() && st.peek() <= nums2[i]) st.pop();
