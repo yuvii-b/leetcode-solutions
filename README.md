@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuvii-b/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yuvii-b/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yuvii-b/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2270-number-of-ways-to-split-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yuvii-b/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yuvii-b/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvii-b/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yuvii-b/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/yuvii-b/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [2270-number-of-ways-to-split-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/yuvii-b/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
