@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0553-optimal-division](https://github.com/yuvii-b/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvii-b/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/yuvii-b/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yuvii-b/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0553-optimal-division](https://github.com/yuvii-b/leetcode-solutions/tree/master/0553-optimal-division) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/yuvii-b/leetcode-solutions/tree/master/1070-convert-to-base-2) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yuvii-b/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0553-optimal-division](https://github.com/yuvii-b/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/yuvii-b/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
