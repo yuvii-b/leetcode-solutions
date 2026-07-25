@@ -1,4 +1,5 @@
 class Solution {
+    // both cyclic sort and negative marking are valid solutions
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> res = new ArrayList<>();
         int n = nums.length, i = 0;
