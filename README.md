@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/yuvii-b/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/yuvii-b/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/yuvii-b/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yuvii-b/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/yuvii-b/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yuvii-b/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yuvii-b/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yuvii-b/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvii-b/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/yuvii-b/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/yuvii-b/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvii-b/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvii-b/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
@@ -902,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yuvii-b/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/yuvii-b/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/yuvii-b/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/yuvii-b/leetcode-solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Trie
