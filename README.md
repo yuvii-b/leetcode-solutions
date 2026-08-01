@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yuvii-b/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/yuvii-b/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/yuvii-b/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/yuvii-b/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/yuvii-b/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/yuvii-b/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvii-b/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yuvii-b/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvii-b/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/yuvii-b/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/yuvii-b/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/yuvii-b/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yuvii-b/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/yuvii-b/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/yuvii-b/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/yuvii-b/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yuvii-b/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yuvii-b/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/yuvii-b/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yuvii-b/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
@@ -1017,4 +1021,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvii-b/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yuvii-b/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yuvii-b/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
