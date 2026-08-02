@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/yuvii-b/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/yuvii-b/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/yuvii-b/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/yuvii-b/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/yuvii-b/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/yuvii-b/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/yuvii-b/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/yuvii-b/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/yuvii-b/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvii-b/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/yuvii-b/leetcode-solutions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/yuvii-b/leetcode-solutions/tree/master/1070-convert-to-base-2) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yuvii-b/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/yuvii-b/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/yuvii-b/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/yuvii-b/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/yuvii-b/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/yuvii-b/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yuvii-b/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/yuvii-b/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -1025,4 +1028,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yuvii-b/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/yuvii-b/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
